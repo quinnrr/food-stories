@@ -3,25 +3,24 @@ BACKGROUNDs
 *****************************************************/
 
 .bg-image {
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed; /* This makes the background fixed while scrolling */
-
-    position: relative;
-  }
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* This makes the background fixed while scrolling */
+}
 
 
 /* Styling the scrolling text box */
 .bg-text-box {
-  background: #fff;
-  color: #222;
-  padding: 1.5rem 2rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  font-family: 'Lora', 'Source Sans 3', sans-serif;
   max-width: 40rem;
   margin: 2rem auto;
+  padding: 1.5rem 2rem;
+  background: #fff;
+  font-family: 'Lora', 'Source Sans 3', sans-serif;
   line-height: 1.6;
+  color: #222;  
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
   
 
@@ -53,7 +52,7 @@ STICKY BACKGROUND
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   background: blue;
-  height:auto;
+  height: auto;
 }
 
 .sticky-bg {
@@ -69,16 +68,16 @@ STICKY BACKGROUND
   
 .sticky-bg-content {       
   top: 2rem;
-  background: #fff;
-  color: #222;
-  padding: 1.5rem 2rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  font-family: 'Lora', 'Source Sans 3', sans-serif;
   max-width: 50rem;
   margin: 2rem auto;
-  z-index: 10;
+  padding: 1.5rem 2rem;
+  font-family: 'Lora', 'Source Sans 3', sans-serif;
   line-height: 1.6;
+  background: #fff;
+  color: #222;
+  z-index: 10;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 
@@ -87,25 +86,24 @@ STICKY BACKGROUND
 SIDE SCROLL
 *****************************************************/
 
-  .side-scroll-container {
-    width:100%;
-    margin: auto 20px;
-  
-  }
-  
-  .ss-text-box {
-    width:33%;
-  }
-  
-  .ss-image-container {
-    float:right;
-    width:66%;
-    position:sticky;
-    top:0;
-  }
-  
-  .ss-image {
-  width:100%;
-  }
-  
+.side-scroll-container {
+  width: 100%;
+  margin: auto 2rem;
+}
+
+.ss-text-box {
+  width: 33%;
+}
+
+.ss-image-container {
+  position: sticky;
+  top: 0;
+  float: right;
+  max-width: 66%;
+}
+
+.ss-image {
+  width: 100%;
+}
+
  
