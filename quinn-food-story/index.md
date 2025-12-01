@@ -1,1 +1,1 @@
-
+stories/bbq/index.md
