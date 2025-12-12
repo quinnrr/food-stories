@@ -1,7 +1,7 @@
 ---
 title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
+author: Quinn Rogers
+location: San Francisco, CA
 thumbnail: bbq.png
 summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
 date: 2025-08-01
@@ -13,7 +13,7 @@ tags:
 ---
 
 # Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+This story comes from my dad, a self-professed foodie, in all its loaded connotations, and a San Franciscan for thirty years now who has never lived anywhere but the Bay Area. He is, in my opinion, more than an accomplished home chef and I would choose his cooking over most other dining experiences. The formative restaurant visit he mentions was at Zuni Cafe, a San Francisco institution, and the restaurant my parents claim they took me to straight from the hospital after I was born, though I have always been dubious of that account. 
 
 {% include figure.html
   class="right"
@@ -22,14 +22,6 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
   image-path="bbq.png"
 %}
 
-
-## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
-
-
-{% include audio.html
-  src="bbq.mp3"
-%}
 
 
 ## Analysis: Smoke, Memory, and Belonging
