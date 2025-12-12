@@ -6,13 +6,9 @@ thumbnail: bbq.png
 summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
 date: 2025-08-01
 layout: base
-tags:
-  - BBQ
-  - cookout
-  - community
+
 ---
 
-# Generic Story Title
 This story comes from my dad, a self-professed foodie, in all the term's loaded connotation, and a San Franciscan for thirty years now, who has never lived anywhere but the Bay Area. He is, in my opinion, more than an accomplished home chef and I would choose his cooking over most other dining experiences. The formative restaurant visit he mentions was at Zuni Cafe, a San Francisco institution, and the restaurant my parents claim they took me to straight from the hospital after I was born, though I have always been dubious of that account. 
 
 {% include figure.html
