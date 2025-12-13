@@ -24,7 +24,7 @@ This story comes from my dad, a self-professed foodie, in all its loaded connota
 
 
 {% include audio.html
-  src="food project - 12:12:25, 5.54 PM.mp3"
+  src="foodaudio.mp3"
 %}
 
 
