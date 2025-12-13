@@ -27,6 +27,10 @@ This story comes from my dad, a self-professed foodie, in all its loaded connota
   src="foodaudio.mp3"
 %}
 
+{% include audio.html
+  src="foodaudio.mp3"
+%}
+
 
 ## Spaghetti and Scallops
 
