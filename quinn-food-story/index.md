@@ -14,7 +14,7 @@ This story comes from my dad, a self-professed foodie, in all the term's loaded 
 {% include figure.html
   class="right"
   width="40%"
-  caption="My dad and me at another of his favorite restaurants in San Francisco"
+  caption="My dad and me at another of his favorite restaurants in San Francisco circa 2005"
   image-path="bbq.png"
 %}
 
