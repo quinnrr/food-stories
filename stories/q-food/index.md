@@ -2,7 +2,7 @@
 title: Interview with my dad
 author: Quinn Rogers
 location: San Francisco, CA
-thumbnail: bbq.png
+thumbnail: IMG_2114.heic
 summary: My dad's staple childhood meal reminds him of how different his current culinary world is
 date: 2025-12-12
 layout: base
