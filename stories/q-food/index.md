@@ -3,7 +3,7 @@ title: The Last Strand
 author: Quinn Rogers
 location: San Francisco, CA
 thumbnail: dadimage.png
-summary: My dad's staple childhood meal reminds him of how different his current culinary world is
+summary: A memory of a staple childhood meal provokes my dad to reflect on how different his current culinary world is and who is no longer in it
 date: 2025-12-12
 layout: base
 
@@ -11,7 +11,7 @@ layout: base
 
 {% include figure.html
   class="right"
-  width="50%"
+  width="60%"
   caption="My dad and me at another of his favorite restaurants in SF, circa 2005"
   image-path="dadimage.png"
 %}
